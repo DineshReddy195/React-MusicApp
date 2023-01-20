@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bottom {
+  width: 500px;
+  height: 60px;
+  background-color: #d51111;
+  margin: auto;
+}
